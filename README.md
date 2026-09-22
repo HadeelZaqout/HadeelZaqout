@@ -6,7 +6,7 @@
 
 📍 Gaza, Palestine &nbsp;|&nbsp; 🎓 Software & Database Diploma — Gaza Training College
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-1B4332?style=for-the-badge)](https://v0-hadeelzaqoutportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-1B4332?style=for-the-badge)](https://premium-developer-portfolio-5ukn.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-B8862E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhad50809@gmail.com)
 
 </div>
